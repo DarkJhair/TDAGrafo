@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jhair/CLionProjects/ListaTDA2/Arista.cpp
+
+C:/Users/Jhair/CLionProjects/ListaTDA2/Grafofo.cpp
+
+C:/Users/Jhair/CLionProjects/ListaTDA2/ListaTDA.cpp
+iostream
+-
+ListaTDA.h
+C:/Users/Jhair/CLionProjects/ListaTDA2/ListaTDA.h
+Nodo.h
+C:/Users/Jhair/CLionProjects/ListaTDA2/Nodo.h
+
+C:/Users/Jhair/CLionProjects/ListaTDA2/ListaTDA.h
+iostream
+-
+ListaTDA.h
+C:/Users/Jhair/CLionProjects/ListaTDA2/ListaTDA.h
+Nodo.h
+C:/Users/Jhair/CLionProjects/ListaTDA2/Nodo.h
+
+C:/Users/Jhair/CLionProjects/ListaTDA2/Nodo.cpp
+Nodo.h
+C:/Users/Jhair/CLionProjects/ListaTDA2/Nodo.h
+
+C:/Users/Jhair/CLionProjects/ListaTDA2/Nodo.h
+iostream
+-
+
+C:/Users/Jhair/CLionProjects/ListaTDA2/Vertice.cpp
+
+C:/Users/Jhair/CLionProjects/ListaTDA2/main.cpp
+iostream
+-
+
