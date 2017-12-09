@@ -21,7 +21,7 @@ private:
 public:
     int cantidad_elementos;
 
-    void agregar(T,int);
+    void agregar(T);
     void borrar_poscicion(int);
     void buscar_posicion(T valor);
 

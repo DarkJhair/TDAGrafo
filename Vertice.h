@@ -11,15 +11,19 @@ using namespace std;
 
 template <typename T>
 class Vertice {
+
+public:
     string nombre;
     ListaTDA<Arista*> aristas;
 
     friend class Arista;
     friend class Grafo;
-    Vertice(string nom){
+
+    Vertice(string nom) {
         this->nombre=nom;
     }
 };
+
 
 
 #endif //LISTATDA2_VERTICE_H

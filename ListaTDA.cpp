@@ -10,7 +10,8 @@
 using namespace std;
 
 template <typename T>
-void ListaTDA<T>::agregar(T valor, int poscicion) {
+void ListaTDA<T>::agregar(T valor) {
+    int poscicion;
     Nodo<T> *nuevo=new Nodo<T>(valor);
     if(poscicion < cantidad_elementos || poscicion > cantidad_elementos){
         return ;
